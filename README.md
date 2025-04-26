@@ -3,7 +3,7 @@
 ## Pseudocoloring Application for Medical Images
 
 ### Overview
-This application enhances and colorizes medical images using custom color maps. It applies image enhancement techniques and then uses user-defined colormaps to pseudo-color grayscale images, making features more visible for better analysis.
+This application enhances and colorizes medical images using custom color maps. It applies image enhancement techniques and then uses user-defined colormaps to pseudo-color grayscale images, making features more visible for better analysis. The technique implemented was proposed in the research paper present in this repository.
 
 ### Features
 _Image enhancement:_ <br/>
